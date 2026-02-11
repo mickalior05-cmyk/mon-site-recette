@@ -1,0 +1,78 @@
+.titre1{
+    color:blue;
+    background-color: pink;
+    border-radius: 15px;
+    padding-left:0px;
+    letter-spacing: 2px;
+    margin-top: 0px;
+    font-family: 'Poppins', serif;
+}
+.nombre{
+    padding-left: 50px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.titre2, .titre3{
+    padding-left:50px;
+    text-decoration:underline;
+    text-decoration-style: wavy;
+    font-family: 'Libr Baskerville',
+    serif;
+    font-size: 25px;
+}
+ul, ol{
+    max-width: 500px;
+    background-color: #f272fd91;
+    padding: 25px;
+    border-radius: 15px;
+    text-align: left;
+    list-style-position: outside; 
+}
+li{
+    margin-bottom: 8px
+}
+.image1{
+    height: auto;
+    width: 250px;
+    border-radius: 20px;
+    margin-bottom: 0px;
+    justify-content: center;
+    align-items: center;
+}
+.yaourt{
+    font-family: Arial, sans-serif;
+    padding-left: 50px;
+    margin: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-image: url("photo/salond-de-the-fond-DUPONT-avec-un-the.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 0vh;
+}
+.ingre1{
+    background-color: pink;
+    padding-left: 50px;
+    width: 400px;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.degust{
+    font-size: 70px;
+    margin-top: 10px;
+    font-family: 'Playfair Display';
+    color: #8e245b;
+    font-weight: bold;
+    text-align: center;
+}
