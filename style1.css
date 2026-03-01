@@ -173,6 +173,17 @@ ul{
         font-size: 18px;
     }
  }
+ .main-content ul li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+ }
+
+ .main-content ul li a:hover {
+    color: #66b2ff;
+    text-decoration: underline;
+ }
+
 
 
 
