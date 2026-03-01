@@ -147,8 +147,9 @@ ul{
         width: 70vh;
         margin-top: 4rem;
     }
+ }
 
-      @media screen and (max-width: 768px){
+ @media screen and (max-width: 768px){
 
     nav{
         display: flex;
@@ -172,7 +173,9 @@ ul{
     nav ul li a{
         font-size: 18px;
     }
+    
  }
+
  .main-content ul li a {
     color: white;
     text-decoration: none;
@@ -183,8 +186,3 @@ ul{
     color: #66b2ff;
     text-decoration: underline;
  }
-
-
-
-
-
