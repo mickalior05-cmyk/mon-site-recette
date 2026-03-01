@@ -36,9 +36,9 @@ body{
         top: 0;
         right: 0;
         width: 40%;
-        border-left: 3px solid darkblue;
-        border-bottom: 3px solid darkblue;
-        border-bottom-left-radius: 2rem;
+        border-right: 3px solid rgba(154, 154, 158, 0.421);
+        border-bottom: 3px solid rgba(5, 5, 140, 0.548);
+        border-bottom-right-radius: 2rem;
         padding: 1rem solid;
         background-color: #161616;
         border-top: 0.1rem solid rgba(0,0,0,0.1);
@@ -173,6 +173,7 @@ ul{
         font-size: 18px;
     }
  }
+
 
 
 
