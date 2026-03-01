@@ -235,14 +235,10 @@ span{
 
  @media (max-width:1000px){
     .home{
-        gap:4rem;
-    }
- }
-
- @media(max-width:995px){
-    .home{
         flex-direction: column;
-        margin: 5rem 4rem;
+        justify-content: center;
+        text-align: center;
+        gap: 5rem;
     }
 
     .home .home-content h3{
@@ -250,12 +246,13 @@ span{
     }
 
     .home .home-content h1{
-        font-size: 5rem;
+        font-size: 4rem;
     }
 
     .home-img img{
-        width: 70vh;
-        margin-top: 4rem;
+        width: 500px;
+        height: 650px;
+        margin-top: 2rem;
     }
  }
 
@@ -265,4 +262,5 @@ span{
     padding: 25px;
     background:#111;
     color:white;
+
     }
