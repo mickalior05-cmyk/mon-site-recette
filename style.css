@@ -114,7 +114,7 @@ section{
 }
 
 span{
-    color: darkblue;
+    color: #0081ff;
 }
 
 .home-content h3{
@@ -200,7 +200,7 @@ span{
 
  .typing-text span::before{
     content: "software Developer";
-    color: darkblue;
+    color: #0081ff;
     animation: words 20s infinite;
  }
 
@@ -264,3 +264,4 @@ span{
     color:white;
 
     }
+
